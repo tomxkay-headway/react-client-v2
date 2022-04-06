@@ -1,0 +1,5 @@
+@media screen and (max-width: 900px) {
+  .heroGridContainer {
+    flex-direction: column-reverse !important;
+  }
+}
